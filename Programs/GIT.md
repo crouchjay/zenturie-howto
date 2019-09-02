@@ -1,9 +1,17 @@
 # GIT
 
-## What is git
+### What is git
 
 [git](https://en.wikipedia.org/wiki/Git)
 
-## Install git
+### 1. Add Chocolatey
 
-[install](https://git-scm.com/downloads)
+[Chocolately](https://chocolatey.org/)
+
+### 2. Install git
+
+In powershell
+
+```
+choco install git
+```
