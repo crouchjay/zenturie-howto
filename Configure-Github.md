@@ -1,0 +1,22 @@
+# Sign Up And Configure Github
+
+This document lays out how to sign up and configure github. The intended audience is for people that do not or already have a github account.
+
+### 1. Sign up
+
+Follow the normal signup process for github. Ensure that it is the free account.
+[Github.com](https://github.com)
+
+### 2. Configure Email
+
+#### 2a. In the upper-right corner of any page, click your profile photo, then click Settings.
+
+![Github User Settings](/images/userbar-account-settings.png)
+
+#### 2b. In the left sidebar, click Emails.
+
+![Github User Settings](/images/settings-sidebar-emails.png)
+
+#### 2c. To keep your email address private when performing web-based Git operations, click **Keep my email address private** and **Block command line pushes that expose my email**.
+
+![Github User Settings](/images/emails-address-settings.png)
