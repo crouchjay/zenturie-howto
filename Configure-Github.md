@@ -15,8 +15,8 @@ Follow the normal signup process for github. Ensure that it is the free account.
 
 #### 2b. In the left sidebar, click Emails.
 
-![Github User Settings](/images/settings-sidebar-emails.png)
+![Github Email Sidebar](/images/settings-sidebar-emails.png)
 
 #### 2c. To keep your email address private when performing web-based Git operations, click **Keep my email address private** and **Block command line pushes that expose my email**.
 
-![Github User Settings](/images/emails-address-settings.png)
+![Github Email Settings](/images/emails-address-settings.PNG)
