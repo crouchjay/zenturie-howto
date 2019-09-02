@@ -1,4 +1,4 @@
-#GIT
+# GIT
 
 ## What is git
 
