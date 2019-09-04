@@ -12,38 +12,34 @@ In order for you to get access to the documents, Jay needs to add you as a colla
 
 ### 3. Wait Confirmation Email From Jay
 
-Once Jay has added you as a corraborator, Jay will send you a confirmation email.
+Once Jay has added you as a corraboratory, you will have access to the documents. Jay will send you a confirmation email that he is finished with a link to the documents.
 
-### 4. Configure an SSH connection
+### 4. Download Git Desktop
 
-Follow the steps in the following tutorial
-[Connecting to github with ssh](https://help.github.com/en/articles/connecting-to-github-with-ssh)
+Download git [Desktop](https://desktop.github.com/) and login.
 
 ### 5. Create a Github Repository Folder
 
 Create a folder that to hold the repositories required to perform your duties.
 
-**eg. C:/Zenturie**
+**eg. C:/Zenturie/repos**
 
-### 6. Open Powershell
+### 6. Add Repository
 
-How to start or run PowerShell
-a. Search for powershell in Start Search and hit Enter
-b. Via WinX Menu if you have opted to display PowerShell instead of Command Prompt
-c. Type powershell in Run prompt and hit Enter
-d. Type powershell in Command Prompt and hit Enter
-e. Open Task Manager > File menu > Run new task. Type powershell and hit Enter.
+#### 1. Clone Repository From Internet
 
-### 6. Configure git
+In the github desktop program click on **Clone repository from the internet**.
 
-#### a. Work with SSH
+![github-create-new-repo](/images/github-desktop-new-repo.PNG)
 
-1. Open Git Bash
+#### 2. Select Repository and Destination Folder
 
-![GitBashLocation](/images/programs-git-bash.PNG)
+Choose the crouchjay/zenturie-shopify-theme repository.
 
-In powershell, fill in the required info
+Ensure the destination folder is the folder from the previous step.
 
-```
-git config --global user.email "email@example.com"
-```
+![Clone-repository](/images/github-desktop-clone-repo.PNG)
+
+#### 3. Ensure Master Branch is Selected
+
+![Master-branch](/images/github-desktop-master-branch.PNG)
