@@ -41,3 +41,33 @@ Ensure the destination folder is the folder from the previous step.
 #### 3. Ensure Master Branch is Selected
 
 ![Master-branch](/images/github-desktop-master-branch.PNG)
+
+### 7. Create A Shopify Store
+
+#### 1. Become a Shopify Partner
+
+[Shopify Partner](https://www.shopify.com/partners)
+
+#### 2. Follow Steps
+
+**Do Not Enable Development Preview**
+
+[Create A Store](https://help.shopify.com/en/partners/dashboard/development-stores)
+
+### 8. Go To Themes Section
+
+Click on the themes link under **Online Stores**.
+
+![themes](/images/online-stores-themes.PNG)
+
+### 9. Upload Latest Shop Theme
+
+#### 1. Create a Zip File
+
+Navigate to the shopify theme repository that is stored locally.
+
+**eg. C:/Zenturie/repos/zenturie-shopify-theme**
+
+Compress or create a zip file from the src folder.
+
+![shopify-theme-zip](/images/shopify-theme-zip-file.PNG)
