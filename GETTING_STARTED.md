@@ -40,7 +40,7 @@ Ensure the destination folder is the folder from the previous step.
 
 #### 3. Ensure Master Branch is Selected
 
-![Master-branch](/images/github-desktop-master-branch.PNG)
+![Master-branch](/images/github-desktop-master-branch-selected.PNG)
 
 ### 7. Create A Shopify Store
 
@@ -58,7 +58,7 @@ Ensure the destination folder is the folder from the previous step.
 
 Click on the themes link under **Online Stores**.
 
-![themes](/images/online-stores-themes.PNG)
+![themes](/images/shopify-online-stores-themes.PNG)
 
 ### 9. Upload Latest Shop Theme
 
